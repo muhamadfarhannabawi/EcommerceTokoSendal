@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/handlers"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/middleware"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/handlers"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/middleware"
 	"github.com/gin-gonic/gin"
 )
 

@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/config"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/models"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/repositories"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/config"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/models"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/repositories"
 	"github.com/golang-jwt/jwt/v5"
 	"gorm.io/gorm"
 )

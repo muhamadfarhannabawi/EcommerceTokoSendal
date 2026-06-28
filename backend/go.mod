@@ -1,4 +1,4 @@
-module github.com/IlhamMaulana13/UTSApps-MarketPlace
+module github.com/muhamadfarhannabawi/EcommerceTokoSendal
 
 go 1.25.0
 

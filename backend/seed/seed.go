@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/config"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/models"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/config"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/models"
 	"github.com/joho/godotenv"
 )
 

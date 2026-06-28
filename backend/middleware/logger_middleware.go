@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/pkg/logger"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/pkg/logger"
 	"github.com/gin-gonic/gin"
 )
 

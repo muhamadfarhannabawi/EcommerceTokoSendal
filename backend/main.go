@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/config"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/pkg/logger"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/routes"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/config/config"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/pkg/logger"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/routes"
 	"github.com/joho/godotenv"
 )
 

@@ -3,8 +3,8 @@ package services
 import (
 	"errors"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/models"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/repositories"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/models"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/repositories"
 )
 
 type CartService struct {

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/models"
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/services"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/models"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/services"
 	"github.com/gin-gonic/gin"
 )
 

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/services"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/services"
 	"github.com/gin-gonic/gin"
 )
 

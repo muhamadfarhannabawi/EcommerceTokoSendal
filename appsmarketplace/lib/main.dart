@@ -10,7 +10,7 @@ import 'core/services/global_institute_pay_service.dart';
 import 'core/services/notification_service.dart';
 import 'app.dart';
 
-void main() async {
+void main(dynamic DefaultFirebaseOptions) async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);

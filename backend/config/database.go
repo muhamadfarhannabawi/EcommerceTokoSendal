@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/IlhamMaulana13/UTSApps-MarketPlace/models"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
