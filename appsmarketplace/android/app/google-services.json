@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "276591760693",
-    "project_id": "latihanfirebase-10990",
-    "storage_bucket": "latihanfirebase-10990.firebasestorage.app"
+    "project_number": "8931703132",
+    "project_id": "e-comerce-6b073",
+    "storage_bucket": "e-comerce-6b073.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:276591760693:android:c39933ea11e038276ae87c",
+        "mobilesdk_app_id": "1:8931703132:android:e4859e9b116b63b462a999",
         "android_client_info": {
-          "package_name": "android.com"
+          "package_name": "com.ecomerce.appname"
         }
       },
       "oauth_client": [
         {
-          "client_id": "276591760693-3o8tqpalc2h9die7f0b93fumivig1ljc.apps.googleusercontent.com",
+          "client_id": "8931703132-uepirrgc3dbpmtnroe9d44cdmae8lkkh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDP1NvzcdCLSgrc_Cgrlxr9b_zipVUkPKM"
+          "current_key": "AIzaSyCe-dW6r01JvxfZBBUxCR_EWE_oGMRdfXA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "276591760693-3o8tqpalc2h9die7f0b93fumivig1ljc.apps.googleusercontent.com",
+              "client_id": "8931703132-uepirrgc3dbpmtnroe9d44cdmae8lkkh.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "8931703132-jae6tqloef0bmftqj8hkiv125kp9af1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appsmarketplace"
+              }
             }
           ]
         }
@@ -36,28 +43,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:276591760693:android:6f1ebba921000e856ae87c",
+        "mobilesdk_app_id": "1:8931703132:android:b5422ca62987173d62a999",
         "android_client_info": {
           "package_name": "com.example.appsmarketplace"
         }
       },
       "oauth_client": [
         {
-          "client_id": "276591760693-3o8tqpalc2h9die7f0b93fumivig1ljc.apps.googleusercontent.com",
+          "client_id": "8931703132-uepirrgc3dbpmtnroe9d44cdmae8lkkh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDP1NvzcdCLSgrc_Cgrlxr9b_zipVUkPKM"
+          "current_key": "AIzaSyCe-dW6r01JvxfZBBUxCR_EWE_oGMRdfXA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "276591760693-3o8tqpalc2h9die7f0b93fumivig1ljc.apps.googleusercontent.com",
+              "client_id": "8931703132-uepirrgc3dbpmtnroe9d44cdmae8lkkh.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "8931703132-jae6tqloef0bmftqj8hkiv125kp9af1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appsmarketplace"
+              }
             }
           ]
         }

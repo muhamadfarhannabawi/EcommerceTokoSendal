@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/config/config"
+	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/config"
 	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/pkg/logger"
 	"github.com/muhamadfarhannabawi/EcommerceTokoSendal/routes"
 	"github.com/joho/godotenv"
