@@ -226,4 +226,6 @@ Program Studi : **Teknik Informatika**
 
 # 📄 Lisensi
 
+
+link youtube : https://youtube.com/shorts/HHZLgKX-8qA?si=njEcfbH7lR_gkpLI
 Project ini dibuat untuk keperluan pembelajaran dan tugas kuliah.
